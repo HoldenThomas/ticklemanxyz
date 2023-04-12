@@ -5,8 +5,7 @@
     <link>http://tickleman.xyz/</link>
     <description>Recent content on Tickle Maaaaan!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 23:08:15 -0400</lastBuildDate><atom:link href="http://tickleman.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://tickleman.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Story II</title>
       <link>http://tickleman.xyz/story-2/</link>

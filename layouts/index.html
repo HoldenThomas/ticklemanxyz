@@ -1,7 +1,12 @@
 {{ define "main" }}
-    {{ .Content }}     
-    <img class="img" src="1.jpeg" alt="Tickle fingers" title="Tickle fingers" />
-    {{ range .Pages }}
-        <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
-    {{ end }}
+    <figure class="resright">
+        <img src="1.jpeg" height="200" title="Tickle fingers" >
+        <figcaption>Fingers</figcaption>
+    </figure>
+    <p>4k sucking on some skittles?</p>
+    <ul>
+        {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
 {{ end }}
